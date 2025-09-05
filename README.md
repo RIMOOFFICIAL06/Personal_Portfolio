@@ -1,30 +1,30 @@
-# Personal portfolio website:
+# Personal Portfolio Website
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+This is my personal portfolio website.
+It showcases my projects, hackathon experiences, and interests in **Machine Learning, Web3, and Blockchain**.  
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ritamvarsen06-9876s-projects/v0-personal-portfolio-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/mqDf2Pii2xW)
+🔗 **Live Demo:** [View Portfolio](https://ritamvarsen.vercel.app/)  
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 🚀 Features
+- **Hero Section** – Introduction with headline and tagline.  
+- **Projects Showcase** – Highlights projects like *AccrediFlow* and *Nexture*.  
+- **About Section** – Quick overview of my background and interests.  
+- **Contact & Social Links** – Easy access to GitHub, LinkedIn, and email.  
+- **Responsive Design** – Works seamlessly across devices.  
 
-## Deployment
+---
 
-Your project is live at:
+## 🛠 Tech Stack
+- **Frontend:** React + Tailwind CSS  
+- **UI Components:** shadcn/ui  
+- **Deployment:** Vercel  
 
-**[https://vercel.com/ritamvarsen06-9876s-projects/v0-personal-portfolio-website](https://vercel.com/ritamvarsen06-9876s-projects/v0-personal-portfolio-website)**
+---
 
-## Build your app
+## 📌 Projects Highlighted
+- **AccrediFlow** – AI + Blockchain-powered solution to streamline accreditation processes.  
+- **Nexture** – AI-based career guidance app (work in progress).  
 
-Continue building your app on:
-
-**[https://v0.app/chat/projects/mqDf2Pii2xW](https://v0.app/chat/projects/mqDf2Pii2xW)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---

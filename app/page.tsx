@@ -15,7 +15,7 @@ export default function Page() {
   }, [])
 
   return (
-    <main className="bg-neutral-950 text-neutral-100">
+    <main className="bg-neutral-950 text-white-900">
       <SiteNavbar />
       <Hero onViewWork={() => scrollTo("projects")} />
 
